@@ -75,5 +75,5 @@ Você só precisa de um navegador web moderno (como Chrome, Firefox, Edge, etc.)
 </table>
 
 <p align="center">
-
   Feito com 💛
+
