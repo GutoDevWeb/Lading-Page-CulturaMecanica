@@ -33,11 +33,11 @@ Você só precisa de um navegador web moderno (como Chrome, Firefox, Edge, etc.)
 
 1.  **Clone o repositório** para sua máquina local:
     ```bash
-    git clone [https://github.com/vilelakami/projeto-landing-page.git]
+    git clone https://github.com/GutoDevWeb/Lading-Page-CulturaMecanica.git
     ```
 2.  **Navegue até o diretório** do projeto:
     ```bash
-    cd projeto-landing-page
+    cd Lading-Page-CulturaMecanica
     ```
 3.  **Abra o arquivo principal (`index.html`)** no seu navegador de preferência.
 
@@ -75,4 +75,5 @@ Você só precisa de um navegador web moderno (como Chrome, Firefox, Edge, etc.)
 </table>
 
 <p align="center">
+
   Feito com 💛
